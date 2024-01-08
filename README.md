@@ -20,3 +20,5 @@ Berikut adalah deskripsi sederhana terkait aplikasi Anda:
 Aplikasi travel list ini memungkinkan pengguna untuk membuat, membaca, memperbarui, dan menghapus daftar perjalanan. Pengguna juga dapat mengurutkan dan memfilter daftar perjalanan berdasarkan nama, tanggal, atau lokasi.
 
 Aplikasi ini menggunakan ReactJS dan useState. UseState digunakan untuk menyimpan data daftar perjalanan, data urutan daftar perjalanan, dan data filter daftar perjalanan.
+
+![image 1](https://github.com/Azizalfauzi/travel-list-app/assets/50761836/8f04636f-4ff1-48df-b29c-39c9be5fd43e)
